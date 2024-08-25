@@ -1,0 +1,2 @@
+Prefix plugins/MIRPREFeR/example/
+Plugin MIRPREFeR inputfile config.example outputfile .
